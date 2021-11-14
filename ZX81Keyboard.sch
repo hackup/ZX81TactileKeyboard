@@ -791,32 +791,6 @@ Wire Wire Line
 Connection ~ 5950 5175
 Wire Wire Line
 	5950 5175 5950 5050
-Text Label 8550 1150 3    50   ~ 0
-KD0
-Text Label 8450 1150 3    50   ~ 0
-KD1
-Text Label 8350 1150 3    50   ~ 0
-KD2
-Text Label 8250 1150 3    50   ~ 0
-KD3
-Text Label 8150 1150 3    50   ~ 0
-KD4
-Text Label 8750 1150 3    50   ~ 0
-KA11
-Text Label 8850 1150 3    50   ~ 0
-KA10
-Text Label 8950 1150 3    50   ~ 0
-KA12
-Text Label 9050 1150 3    50   ~ 0
-KA9
-Text Label 9150 1150 3    50   ~ 0
-KA13
-Text Label 9250 1150 3    50   ~ 0
-KA8
-Text Label 9350 1150 3    50   ~ 0
-KA14
-Text Label 9450 1150 3    50   ~ 0
-KA15
 $Comp
 L Connector_Generic:Conn_01x03 J3
 U 1 1 61973DC6
@@ -970,4 +944,30 @@ Wire Wire Line
 Connection ~ 7450 5175
 Wire Wire Line
 	7450 5175 7450 5400
+Text GLabel 8150 1150 3    39   Input ~ 0
+KD4
+Text GLabel 8250 1150 3    39   Input ~ 0
+KD3
+Text GLabel 8350 1150 3    39   Input ~ 0
+KD2
+Text GLabel 8450 1150 3    39   Input ~ 0
+KD1
+Text GLabel 8550 1150 3    39   Input ~ 0
+KD0
+Text GLabel 8750 1150 3    39   Input ~ 0
+KA11
+Text GLabel 8850 1150 3    39   Input ~ 0
+KA10
+Text GLabel 8950 1150 3    39   Input ~ 0
+KA12
+Text GLabel 9050 1150 3    39   Input ~ 0
+KA9
+Text GLabel 9150 1150 3    39   Input ~ 0
+KA13
+Text GLabel 9250 1150 3    39   Input ~ 0
+KA8
+Text GLabel 9350 1150 3    39   Input ~ 0
+KA14
+Text GLabel 9450 1150 3    39   Input ~ 0
+KA15
 $EndSCHEMATC
