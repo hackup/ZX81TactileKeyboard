@@ -6,7 +6,7 @@ encoding utf-8
 Sheet 1 1
 Title "ZX81 Tactile Keyboard"
 Date ""
-Rev ""
+Rev "2"
 Comp "hackup.net"
 Comment1 ""
 Comment2 ""
