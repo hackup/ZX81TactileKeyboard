@@ -5,11 +5,11 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "ZX81 Tactile Keyboard"
-Date ""
+Date "2022-02-06"
 Rev "2"
 Comp "hackup.net"
-Comment1 ""
-Comment2 ""
+Comment1 "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License."
+Comment2 "This work is licensed under a"
 Comment3 ""
 Comment4 ""
 $EndDescr
