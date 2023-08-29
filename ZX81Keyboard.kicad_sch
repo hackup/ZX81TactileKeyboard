@@ -6,8 +6,8 @@
 
   (title_block
     (title "ZX81 Tactile Keyboard")
-    (date "2022-02-06")
-    (rev "2")
+    (date "2023-08-29")
+    (rev "3")
     (company "hackup.net")
     (comment 1 "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.")
     (comment 2 "This work is licensed under a")
