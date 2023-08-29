@@ -9,6 +9,7 @@
 *~
 _autosave-*
 *.tmp
+*-backups/
 
 # Netlist files (exported from Eeschema)
 *.net
@@ -20,4 +21,7 @@ _autosave-*
 # Exported BOM files
 *.xml
 *.csv
+
+# KiCAD local
+*.kicad_prl
 
